@@ -1,0 +1,109 @@
+{
+    "animals": [
+        {
+            "name":"Blue Poison Arrow Frog",
+            "type":"Amphibian",
+            "number": 30,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_frogs.jpg"
+        },
+        {
+            "name":"Hellbender",
+            "type":"Amphibian",
+            "number": 5,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_hellbender-sm.jpg"
+        },
+        {
+            "name":"Puerto Rican Crested Toad",
+            "type":"Amphibian",
+            "number": 8,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_prct.jpg"
+        },
+        {
+            "name":"Caiman Lizard",
+            "type":"Reptiles",
+            "number": 10,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_caiman-lizard-web.jpg"
+        },
+        {
+            "name":"Green Crested Basilisk",
+            "type":"Reptile",
+            "number": 4,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/basilisk2-web.jpg"
+        },
+        {
+            "name":"Eyelash Viper",
+            "type":"Reptile",
+            "number": 2,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_eyelashviper-web.jpg"
+        },
+        {
+            "name":"Clouded Leopard",
+            "type":"Mammal",
+            "number": 15,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_cloudedleopard7.jpg"
+        },
+        {
+            "name":"Red Panda",
+            "type":"Mammal",
+            "number": 5,
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_redpanda4.jpg"
+        },
+        {
+            "name":"White Rhino",
+            "type":"Mammal",
+            "number": 4,
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_white_rhino_-_2017_-_brandon_jackson.jpg"
+        },
+        {
+            "name":"Cassowary",
+            "type":"Bird",
+            "number": 2,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/cassowary8.jpg"
+        },
+        {
+            "name":"Snowy Owl",
+            "type":"Bird",
+            "number": 3,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_snowyowl1.jpg"
+        },
+        {
+            "name":"Southern Crested Screamer",
+            "type":"Bird",
+            "number": 5,
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_crestedscreamer1-web.jpg"
+        },
+        {
+            "name":"Lionfish",
+            "type":"Fish",
+            "number": 1,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_lionfish1.jpg"
+        },
+        {
+            "name":"Blue Tang Surgeon Fish",
+            "type":"Fish",
+            "number": 10,
+            "isCarnivore": false,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_blue-tang-surgeonfish.jpg"
+        },
+        {
+            "name":"Red-Tail Triggerfish",
+            "type":"fish",
+            "number": 7,
+            "isCarnivore": true,
+            "imageUrl": "https://www.speakcdn.com/assets/2147/12_6-30-14_red-tailed_triggerfish_-_amiee_stubbs.jpg"
+        }
+    ]
+}
