@@ -6,7 +6,14 @@ const printToDom = (domString, divId) => {
 const buildDomString = animalArray => {
     let domString = "";
     animalArray.forEach((animal) => {
-        domString += `<h1>${animal.name}</h1>`;
+        domString += `<div class="card">`;
+        domString +=    `<h1>${animal.name}</h1>`;
+        domString +=    `<h3>${animal.number}</h3>`;
+        domString +=    `<img src ="${animal.imageUrl}">`;
+        domString +=    `<div class="button-container">`;
+        domString +=        `<button>Escaped</button>`;
+        domString +=    `</div>`;
+        domString += `</div>`;
     })
     printToDom(domString, 'animal-holder')
 };
