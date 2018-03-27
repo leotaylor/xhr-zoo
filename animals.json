@@ -100,7 +100,7 @@
         },
         {
             "name":"Red-Tail Triggerfish",
-            "type":"fish",
+            "type":"Fish",
             "number": 7,
             "isCarnivore": true,
             "imageUrl": "https://www.speakcdn.com/assets/2147/12_6-30-14_red-tailed_triggerfish_-_amiee_stubbs.jpg"
